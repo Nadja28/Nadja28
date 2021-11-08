@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nadja28
 - 👀 I’m interested in works about natural resource management,restoration and conservation.
-- 🌱 I’m currently learning programming
+- 🌱 I’m currently learning programming with lenguages in R and Python.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
